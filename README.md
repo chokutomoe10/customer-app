@@ -3,6 +3,7 @@
 2. In the root folder, run the backend with
 ``
 python app.py
+``
 3. Go to the client folder, install project dependencies with
 ``
 npm i
